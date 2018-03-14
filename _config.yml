@@ -1,12 +1,12 @@
 # Base configs
-baseurl: /black_card
+baseurl:""
 
 # UI configs
-title: "Harsh Patel"
-author: "Harsh Patel"
-about: "A Pythonista"
+title: "Sahil Roy"
+author: "Sahil Roy"
+about: "sexy"
 social_urls:
-  facebook: "#"
+  facebook: "https://www.facebook.com/sahil.saspara"
   twitter: "#"
   instagram: "#"
-mobile: "123"
+mobile: "9879833433"
